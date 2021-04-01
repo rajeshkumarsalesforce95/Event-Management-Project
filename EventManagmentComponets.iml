@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="salesforce.module" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/packages/built-in-stubs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/packages/built-in-stubs.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="RetrieveModel" standardCheckboxSelected="false">
+    <selectedComponentNames>
+      <SelectedComponentNamesPersistedState type="CUSTOM_APPLICATION">
+        <mySelectedNames>
+          <option value="Event_Management" />
+          <option value="MAX_FIT" />
+        </mySelectedNames>
+      </SelectedComponentNamesPersistedState>
+      <SelectedComponentNamesPersistedState type="CUSTOM_TAB" selectAll="true" />
+      <SelectedComponentNamesPersistedState type="LIGHTNING_WEB_COMPONENT" selectAll="true" />
+      <SelectedComponentNamesPersistedState type="APEX_CLASS" selectAll="true" />
+      <SelectedComponentNamesPersistedState type="LAYOUT">
+        <mySelectedNames>
+          <option value="Attendee__c-Attendee Layout" />
+          <option value="Error_Log__c-Error Log Layout" />
+          <option value="Event-Event Layout" />
+          <option value="EventSpeakers__c-Event - Speaker Layout" />
+          <option value="Event_Attendee__c-Event Attendee Layout" />
+          <option value="Event_Organizer__c-Event Organizer Layout" />
+          <option value="Event__c-Event Layout" />
+          <option value="Location__c-Location Layout" />
+          <option value="Speaker__c-Speaker Layout" />
+        </mySelectedNames>
+      </SelectedComponentNamesPersistedState>
+      <SelectedComponentNamesPersistedState type="CUSTOM_OBJECT">
+        <mySelectedNames>
+          <option value="Attendee__c" />
+          <option value="Error_Log__c" />
+          <option value="EventSpeakers__c" />
+          <option value="Event_Attendee__c" />
+          <option value="Event_Organizer__c" />
+          <option value="Event__c" />
+          <option value="Location__c" />
+          <option value="Speaker__c" />
+        </mySelectedNames>
+      </SelectedComponentNamesPersistedState>
+      <SelectedComponentNamesPersistedState type="APEX_TRIGGER" selectAll="true" />
+    </selectedComponentNames>
+    <componentTreeState>
+      <RetrieveComponentTreeNodePersistedState componentType="ApexClass" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="ApexComponent" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="ApexPage" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="ApexTrigger" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="AuraDefinitionBundle" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomApplication" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomLabels" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomObject" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomTab" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="ExternalDataSource" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="Flow" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="InstalledPackage" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="Layout" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="LightningComponentBundle" isChecked="true" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="Network" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="StaticResource" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="Workflow" isMajor="true" />
+      <RetrieveComponentTreeNodePersistedState componentType="ApexTestSuite" />
+      <RetrieveComponentTreeNodePersistedState componentType="ApprovalProcess" />
+      <RetrieveComponentTreeNodePersistedState componentType="AssignmentRules" />
+      <RetrieveComponentTreeNodePersistedState componentType="CallCenter" />
+      <RetrieveComponentTreeNodePersistedState componentType="Community" />
+      <RetrieveComponentTreeNodePersistedState componentType="CommunityTemplateDefinition" />
+      <RetrieveComponentTreeNodePersistedState componentType="CommunityThemeDefinition" />
+      <RetrieveComponentTreeNodePersistedState componentType="ConnectedApp" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomMetadata" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomObjectTranslation" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomPermission" />
+      <RetrieveComponentTreeNodePersistedState componentType="CustomSite" />
+      <RetrieveComponentTreeNodePersistedState componentType="Document" />
+      <RetrieveComponentTreeNodePersistedState componentType="EmailTemplate" />
+      <RetrieveComponentTreeNodePersistedState componentType="FlexiPage" />
+      <RetrieveComponentTreeNodePersistedState componentType="FlowDefinition" />
+      <RetrieveComponentTreeNodePersistedState componentType="GlobalValueSet" />
+      <RetrieveComponentTreeNodePersistedState componentType="Group" />
+      <RetrieveComponentTreeNodePersistedState componentType="HomePageComponent" />
+      <RetrieveComponentTreeNodePersistedState componentType="HomePageLayout" />
+      <RetrieveComponentTreeNodePersistedState componentType="PermissionSet" />
+      <RetrieveComponentTreeNodePersistedState componentType="PlatformCachePartition" />
+      <RetrieveComponentTreeNodePersistedState componentType="Portal" />
+      <RetrieveComponentTreeNodePersistedState componentType="PostTemplate" />
+      <RetrieveComponentTreeNodePersistedState componentType="Profile" />
+      <RetrieveComponentTreeNodePersistedState componentType="Queue" />
+      <RetrieveComponentTreeNodePersistedState componentType="QuickAction" />
+      <RetrieveComponentTreeNodePersistedState componentType="Report" />
+      <RetrieveComponentTreeNodePersistedState componentType="ReportType" />
+      <RetrieveComponentTreeNodePersistedState componentType="Role" />
+      <RetrieveComponentTreeNodePersistedState componentType="Settings" />
+      <RetrieveComponentTreeNodePersistedState componentType="SharingRules" />
+      <RetrieveComponentTreeNodePersistedState componentType="SharingSet" />
+      <RetrieveComponentTreeNodePersistedState componentType="SiteDotCom" />
+      <RetrieveComponentTreeNodePersistedState componentType="StandardValueSet" />
+      <RetrieveComponentTreeNodePersistedState componentType="Translations" />
+    </componentTreeState>
+    <fileRetrievalHistory>
+      <map>
+        <entry key="00h5g000004vegoAAA">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614477543000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRDAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viREAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRFAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRGAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRHAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRIAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRJAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615968044000" />
+          </value>
+        </entry>
+        <entry key="00h5g000004viRKAAY">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482645000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpJEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482648000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpKEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614819097000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpLEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482648000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpMEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482648000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpNEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482648000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpOEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482649000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpPEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482649000" />
+          </value>
+        </entry>
+        <entry key="01I5g000001NRpQEAW">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482649000" />
+          </value>
+        </entry>
+        <entry key="01p5g000008e6sIAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615699617000" />
+          </value>
+        </entry>
+        <entry key="01p5g000008e6sJAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01p5g000008n7qqAAA">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615698983000" />
+          </value>
+        </entry>
+        <entry key="01p5g00000AIJPmAAP">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615884638000" />
+          </value>
+        </entry>
+        <entry key="01p5g00000AIhESAA1">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615897423000" />
+          </value>
+        </entry>
+        <entry key="01p5g00000ALhlYAAT">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1616045453000" />
+          </value>
+        </entry>
+        <entry key="01p5g00000B8QN1AAN">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1616589418000" />
+          </value>
+        </entry>
+        <entry key="01q5g0000018GOEAA2">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482647000" />
+          </value>
+        </entry>
+        <entry key="01q5g0000018GOFAA2">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615641283000" />
+          </value>
+        </entry>
+        <entry key="01q5g0000018GOGAA2">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615977268000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wDAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wEAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wFAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wGAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wHAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wIAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="01r5g00000189wJAAQ">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614482646000" />
+          </value>
+        </entry>
+        <entry key="02u5g000001oJKGAA2">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1614530799000" />
+          </value>
+        </entry>
+        <entry key="02u5g0000020oLnAAI">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1615968392000" />
+          </value>
+        </entry>
+        <entry key="0Rb5g000000tQp6CAE">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1616568988000" />
+          </value>
+        </entry>
+        <entry key="0Rb5g000000tQp7CAE">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1616568159000" />
+          </value>
+        </entry>
+        <entry key="0Rb5g000000tQp8CAE">
+          <value>
+            <FileRetrievalHistory lastSynchronizationDate="1616569001000" />
+          </value>
+        </entry>
+      </map>
+    </fileRetrievalHistory>
+  </component>
+</module>

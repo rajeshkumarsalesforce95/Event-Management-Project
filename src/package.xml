@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>DeleteEventBatch</members>
+        <members>DeleteEventBatchTest</members>
+        <members>EventAttendeeTriggerHandler</members>
+        <members>EventAttendeeTriggerTest</members>
+        <members>EventManager</members>
+        <members>LocationTriggerHandler</members>
+        <members>TransactionLogHandler</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>EventAttendeeTrigger</members>
+        <members>EventSpeakerTrigger</members>
+        <members>LocationTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Event_Management</members>
+        <members>MAX_FIT</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Attendee__c</members>
+        <members>Error_Log__c</members>
+        <members>EventSpeakers__c</members>
+        <members>Event_Attendee__c</members>
+        <members>Event_Organizer__c</members>
+        <members>Event__c</members>
+        <members>Location__c</members>
+        <members>Speaker__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Attendee__c</members>
+        <members>Error_Log__c</members>
+        <members>EventSpeakers__c</members>
+        <members>Event_Attendee__c</members>
+        <members>Event_Organizer__c</members>
+        <members>Event__c</members>
+        <members>Location__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Attendee__c-Attendee Layout</members>
+        <members>Error_Log__c-Error Log Layout</members>
+        <members>Event-Event Layout</members>
+        <members>EventSpeakers__c-Event - Speaker Layout</members>
+        <members>Event_Attendee__c-Event Attendee Layout</members>
+        <members>Event_Organizer__c-Event Organizer Layout</members>
+        <members>Event__c-Event Layout</members>
+        <members>Location__c-Location Layout</members>
+        <members>Speaker__c-Speaker Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>customlwclookup</members>
+        <members>lookupdemol</members>
+        <members>lwcrecordlist</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>51.0</version>
+</Package>
